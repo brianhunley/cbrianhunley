@@ -1,7 +1,22 @@
 {
   "name": "cbrianhunley",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "cbrianhunley": "index.js"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianhunley/cbrianhunley.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianhunley/cbrianhunley/issues"
+  },
+  "homepage": "https://github.com/brianhunley/cbrianhunley#readme",
+  "description": ""
 }
