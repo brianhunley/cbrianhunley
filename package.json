@@ -2,7 +2,8 @@
   "name": "cbrianhunley",
   "version": "1.0.1",
   "bin": {
-    "cbrianhunley": "index.js"
+    "cbrianhunley": "index.js",
+    "cbrianhunley-cli": "index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -18,5 +19,5 @@
     "url": "https://github.com/brianhunley/cbrianhunley/issues"
   },
   "homepage": "https://github.com/brianhunley/cbrianhunley#readme",
-  "description": ""
+  "description": "Get to know C. Brian Hunley via npm"
 }
